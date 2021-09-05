@@ -1,0 +1,208 @@
+h2
+{
+  padding-top: 35px;/**/
+  padding-bottom: 35px;
+  /*margin-right: 595px;*/
+}
+.hh
+{
+  color: #ffffff;
+}
+h1
+{
+  padding-bottom: 35px;
+}
+.h11
+{
+  color: blue;
+}
+.t
+{
+  margin-bottom: 70px;
+}
+.tete
+{
+  /*background-color: #4a4c50;rgb(226, 224, 224)*/
+  margin-left: 1px;
+  display:block;
+  border-bottom: 2px solid transparent ;
+  border-top: 2px solid white;
+  border-right: 2px solid white;
+  border-left: 2px solid white;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.hautLigne-img
+{
+  width: 200px;/*60*/
+  /* background-color:darkgoldenrod; */
+}
+.hautLigne-name
+{
+  width: 400px;/*222*/
+  height: 70px;
+  color: rgb(255, 255, 255);
+  margin-left: 1px;
+  text-align: start;
+  /* background-color:sienna; */
+}
+.hautLigne-email
+{
+  width: 500px;/*318 265*/
+  height: 70px;
+  color: rgb(255, 255, 255);
+  text-align:start;
+  /* background-color:skyblue */
+}
+/* .hautLigne-date
+{
+  width: 165px;/*210* /
+  height: 70px;
+  color: rgb(255, 255, 255);
+  text-align:left;
+} */
+.hautLigne-adress
+{
+  width: 1000px;/*100*/
+  margin-left: -20%;
+  height: 70px;
+  color: rgb(255, 255, 255);
+  text-align:start;
+  /* background-color:steelblue; */
+}
+.hautLigne-phone
+{
+  width: 300px;/*100*/
+  height: 70px;
+  color: rgb(255, 255, 255);
+  text-align:start;
+  /* background-color:tan; */
+}
+.hautLigne-website
+{
+  width: 250px;/*318*/
+  height: 70px;
+  color: rgb(255, 255, 255);
+  text-align:center;
+  /* background-color:thistle; */
+}
+.hautLigne-company
+{
+  width: 265px;/*318*/
+  height: 70px;
+  color: rgb(255, 255, 255);
+  text-align:center;
+  /* background-color:blueviolet; */
+}
+.hautLigne-action
+{
+  width: 100px;/*100*/
+  height: 70px;
+  color: rgb(255, 255, 255);
+  text-align:center;
+  /* background-color: springgreen; */
+}
+.ligne
+{
+  margin-bottom: 4px;
+  text-align:center;
+  /* height: 65.5px; */
+  min-height: 90px;
+  background-color: rgb(241, 241, 241);
+  border: 2px solid rgb(247, 247, 247);
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  display:block;
+}
+.column-img
+{
+  /*width: 150px;200*/
+  /* height: 60px; */
+  text-align: start;
+}
+.column-name
+{
+  /*2width: 230px;00*/
+  min-width: 165px;
+  /* height: 40px; */
+  text-align: start;
+  /* background-color: blanchedalmond; */
+}
+.column-email
+{
+  /*3width: 290px;40*/
+  min-width: 200px;
+  /* height: 40px; */
+  text-align:start;
+  /* background-color: blueviolet; */
+}
+/* .column-date
+{
+  width: 150px;/*190* /
+  height: 60px;
+  text-align:start;
+  background-color: brown;
+} */
+ .column-adress
+{
+  /*width: 290px;190*/
+  min-width: 380px;
+  /* height: 40px; */
+  text-align:start;
+  /* background-color: brown; */
+}
+.column-phone
+{
+  /*width: 190px;190*/
+  min-width: 160px;
+  /* height: 40px; */
+  text-align:start;
+  /* background-color:rgb(165, 165, 165); */
+} 
+.column-website
+{
+  /*width: 150px;190*/
+  min-width: 100px;
+  /* height: 40px; */
+  text-align:center;
+  /* background-color:seagreen ; */
+} 
+.column-company
+{
+  /*width: 150px;190*/
+  min-width: 150px;
+  /* height: 40px; */
+  text-align:center;
+  /* background-color :royalblue ; */
+} 
+.column-action
+{
+  width: 70px;
+  /* height: 40px; */
+  text-align:center;
+  /* background-color: burlywood; */
+}
+
+.tableVide
+{
+  color: #a3edff;
+  margin-Top: 30px;
+  height: 45px;
+  width: 800px;
+  background-color: rgb(165, 165, 165);
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 20px;
+  color: #E2F5FF;
+  padding: 5px;
+  /* style:{{marginTop:'30px',color:'#737373',backgroundColor:'white'}} */
+}
+
+
+
+
+
+
+
+
